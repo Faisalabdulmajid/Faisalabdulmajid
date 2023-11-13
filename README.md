@@ -1,12 +1,4 @@
 ### Hi there 👋
-
-Indonesia
-
-hallo semuanya,
-perkenalkan nama saya Faisal Abdul Majid
-saya seorang mahasiswa yang sedang menempuh pendidikan s1 di universitas perjuangan tasikmalaya
-pada jurusan teknik informatika
-
 <!--
 **Faisalabdulmajid/Faisalabdulmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
