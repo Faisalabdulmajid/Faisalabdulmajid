@@ -1,4 +1,14 @@
-### Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **Faisal Abdul Majid**.<br>
+
+Saya seorang **Freelance Web Developer**.<br>
+
+Saya terbiasa menggunakan HTML, CSS Javascript dan Framework Boostrap5 menggunakan perangkat Visual Studio Code.<br>
+
+Saya juga beberapa memiliki Sertifikat Kompetensi dari dicoding.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/faisal-abdul-majid-1065a91a9/)ku ya.
 <!--
 **Faisalabdulmajid/Faisalabdulmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
