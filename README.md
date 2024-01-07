@@ -2,11 +2,13 @@
 
 Perkenalkan nama saya **Faisal Abdul Majid**.<br>
 
+Saya sekarang tinggal di Kabupaten Ciamis, Provinsi Jawa Barat, Indonesia 🇮🇩 
+
 Saya seorang mahasiswa aktif di **Universitas Perjuangan Tasikmalaya**.<br>
 
 Saya seorang **Freelance Web Developer**.<br>
 
-Saya terbiasa menggunakan HTML, CSS Javascript dan Framework Boostrap5 menggunakan perangkat Visual Studio Code.<br>
+Saya terbiasa menggunakan PHP, HTML, CSS, Javascript dan Framework Boostrap5 dengan menggunakan perangkat Visual Studio Code.<br>
 
 Saya juga beberapa memiliki Sertifikat Kompetensi dari dicoding.<br>
 
