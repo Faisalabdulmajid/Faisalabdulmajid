@@ -2,6 +2,8 @@
 
 Perkenalkan nama saya **Faisal Abdul Majid**.<br>
 
+Saya seorang mahasiswa aktif di **Universitas Perjuangan Tasikmalaya**.<br>
+
 Saya seorang **Freelance Web Developer**.<br>
 
 Saya terbiasa menggunakan HTML, CSS Javascript dan Framework Boostrap5 menggunakan perangkat Visual Studio Code.<br>
