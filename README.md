@@ -1,18 +1,18 @@
-# Halo semua! 👋
+# Selamat Datang di Repositori Saya! 👋
+Saya adalah **Faisal Abdul Majid**, seorang **mahasiswa** yang sedang mengejar ilmu di **Program Studi Teknik Informatika**, **Universitas Perjuangan Tasikmalaya**. Dalam perjalanan saya sebagai mahasiswa, saya telah memperoleh keahlian yang solid dalam pengembangan web, khususnya menggunakan PHP, HTML, CSS, dan Javascript. Saya juga sangat terampil dalam menerapkan solusi yang responsif dengan menggunakan Framework Bootstrap5 dan alat pengembangan Visual Studio Code.
 
-Perkenalkan nama saya **Faisal Abdul Majid**.<br>
+## Keahlian dan Pencapaian
+**Bahasa Pemrograman:** PHP, HTML, CSS, Javascript <br>
+**Framework:** Bootstrap5 <br>
+**Alat Pengembangan:** Visual Studio Code <br>
 
-Saya sekarang tinggal di Kabupaten Ciamis, Provinsi Jawa Barat, Indonesia 🇮🇩 
+## Pendidikan dan Pengembangan Profesional
+Saya tengah mengambil langkah-langkah menuju pemahaman yang lebih mendalam di bidang **Teknik Informatika** di **Universitas Perjuangan Tasikmalaya**. Selain itu, saya telah meraih sejumlah Sertifikat Kompetensi dan mengikuti berbagai pelatihan melalui platform terkemuka seperti **Dicoding**, **Codepolitan**, dan **Cisco Academy**. Ini adalah bukti komitmen saya untuk terus mengasah dan memperluas keterampilan saya di dunia teknologi informasi.
 
-Saya seorang mahasiswa aktif di **Universitas Perjuangan Tasikmalaya**.<br>
+## Bagaimana Menghubungi Saya
+Jika Anda tertarik untuk berkolaborasi, memberikan umpan balik, atau sekadar berbicara tentang teknologi, jangan ragu untuk menghubungi saya melalui **[Linkedin](https://www.linkedin.com/in/faisal-abdul-majid-1065a91a9/)**. Saya juga dapat dihubungi melalui email di **[faisalabdulmajid45@gmail.com](mailto:faisalabdulmajid45@gmail.com)**.
 
-Saya seorang **Freelance Web Developer**.<br>
-
-Saya terbiasa menggunakan PHP, HTML, CSS, Javascript dan Framework Boostrap5 dengan menggunakan perangkat Visual Studio Code.<br>
-
-Saya juga beberapa memiliki Sertifikat Kompetensi dari dicoding.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/faisal-abdul-majid-1065a91a9/) ku ya.
+Terima kasih telah mengunjungi repositori GitHub saya! Saya sangat bersemangat untuk terus berkembang dan berkontribusi dalam dunia pengembangan perangkat lunak. 🚀
 
 ### Github Statistic
 <p align="left">
